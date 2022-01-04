@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795102356984",
+    "firebase_url": "https://natureemoi-be6ba-default-rtdb.firebaseio.com",
+    "project_id": "natureemoi-be6ba",
+    "storage_bucket": "natureemoi-be6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795102356984:android:8e877fd05e7879ef75220d",
+        "android_client_info": {
+          "package_name": "com.zrius.natueemoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795102356984-4ju5qprv283gvqn2a6v6i1gmgncfveen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALb1tcgzRqF-I-VFoB3pAqEw13c-6Sk7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795102356984-4ju5qprv283gvqn2a6v6i1gmgncfveen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
